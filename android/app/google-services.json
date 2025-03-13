@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590684767565",
+    "project_id": "tippawan-fb9a8",
+    "storage_bucket": "tippawan-fb9a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590684767565:android:ced4a01145467e2b05e304",
+        "android_client_info": {
+          "package_name": "com.example.test_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWHQuE5o_pfMfyfmdYfAdphm3udZYuIxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
